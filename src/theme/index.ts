@@ -1,5 +1,6 @@
 const colors = {
   darkest: 'rgba(9, 12, 11, 1)',
+  darkest80: 'rgba(9, 12, 11, 0.8)',
   darkGreen: 'rgba(14, 22, 18, 1)',
   green: 'rgba(18 ,29 ,22, 1)',
   lightGreen: 'rgba(63, 119, 89, 1)',
